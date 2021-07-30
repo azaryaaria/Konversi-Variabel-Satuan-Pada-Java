@@ -1,1 +1,1 @@
-Silakan salin file java pada IDE
+Silakan salin kode pada file java pada IDE
