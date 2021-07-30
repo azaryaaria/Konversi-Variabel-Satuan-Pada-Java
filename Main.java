@@ -5,11 +5,11 @@ public class Main {
     public static void main(String[] args){
 
         long x = 302L;
-        int alfath = 120;
+        int a = 120;
         short y = 102;
         byte z = 127;
 
-        int hasil = (int)(x + alfath);
+        int hasil = (int)(x + a);
         System.out.println(hasil);
 
         System.out.println(x + " = ini adalah variabel long");
@@ -20,7 +20,7 @@ public class Main {
 
         System.out.println("\n");
 
-        System.out.println(alfath + " = ini adalah variabel int");
+        System.out.println(a + " = ini adalah variabel int");
         System.out.println("Nilai max integer : " + Integer.MAX_VALUE);
         System.out.println("Nilai min integer : " + Integer.MIN_VALUE);
         System.out.println("Nilai bit integer : " + Integer.SIZE);
