@@ -3,7 +3,9 @@ package com.tutorial;
 public class Main {
 
     public static void main(String[] args){
-
+        
+        //Review tentang tipe data satuan
+        
         long x = 302L;
         int a = 120;
         short y = 102;
